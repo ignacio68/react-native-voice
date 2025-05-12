@@ -1,6 +1,3 @@
-![CircleCI branch][circle-ci-badge]
-[![npm][npm]][npm-url]
-
 <h1 align="center">React Native Voice</h1>
 <p align="center">A speech-to-text library for <a href="https://reactnative.dev/">React Native.</a></p>
 
