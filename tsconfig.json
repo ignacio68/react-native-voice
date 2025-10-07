@@ -1,5 +1,5 @@
 {
-  "extends": "expo-module-scripts/tsconfig.base",
+  "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "declaration": true /* Generates corresponding '.d.ts' file. */,
     "declarationMap": true /* Generates a sourcemap for each corresponding '.d.ts' file. */,
